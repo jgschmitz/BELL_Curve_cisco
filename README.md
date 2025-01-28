@@ -1,4 +1,4 @@
-# Bell Curve for Cisco 
+# Bell Curve for Cisco for Marco Wu
 Simplified runbook to simulate a bell curve in MongoDB Atlas Charts by preprocessing data in MongoDB
 
 Bell Curve Simulation Runbook
